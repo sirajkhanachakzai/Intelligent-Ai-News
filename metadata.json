@@ -1,0 +1,5 @@
+{
+  "name": "VibeNews Intelligence",
+  "description": "A modern AI-powered news intelligence dashboard for analysts. Features real-time RSS feed ingestion, AI sentiment analysis, categorical classification, and interactive data visualizations.",
+  "requestFramePermissions": []
+}
